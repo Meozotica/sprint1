@@ -1,0 +1,15 @@
+header{
+    background-color: brown;
+    
+    h1{
+        width: 10x;
+    height: 100px;
+    position: relative; top: 20px; left: 700px;
+  
+    }
+    
+}
+
+button{
+    background-color: blue;
+}
